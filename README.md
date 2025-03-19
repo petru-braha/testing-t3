@@ -7,7 +7,6 @@
 - [extra-repository-1](https://github.com/DenisaCazacu/SoftwareEngineering)
 - [extra-repository-2](https://github.com/Dan-works-on-stuff/SWE-Lab3)
 
-
 - todo: add colaborators
 
 git remote add origin git@github.com:petru-braha/PPG-application.git

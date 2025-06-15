@@ -1,5 +1,5 @@
 kind: wasmer.io/App.v0
-name: phpdadadada
+name: tests
 owner: petru-braha
 package: .
 scaling:

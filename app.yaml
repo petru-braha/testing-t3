@@ -1,5 +1,5 @@
 kind: wasmer.io/App.v0
-name: tests
+name: testsBiggestGreatestAppEverPetru
 owner: petru-braha
 package: .
 scaling:
